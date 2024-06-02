@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Howard",
+    "age": 58,
+    "address": {
+        "street": "Matthew Pass",
+        "city": "Clementsmouth",
+        "state": "Massachusetts",
+        "zip": "80056"
+    },
+    "contact": {
+        "phone": "001-797-435-9704x9086",
+        "servicePhone": "800405389"
+    },
+    "birthday": "1967-15-07",
+    "ip": "78.119.45.176",
+    "foo": "bar",
+    "profile": {
+        "about": "Friend speech suddenly hard cost join. Present son hour bit.\nScientist drug protect nor.\nBring wall out. Business exactly during quite building use.",
+        "bio": "Night group page economic. Base tonight contain turn town sort despite.\nSpecial dream stuff candidate. Property think entire operation major property."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
