@@ -1,0 +1,25 @@
+{
+    "name": "Robert Kelly",
+    "age": 31,
+    "address": {
+        "street": "Renee Field",
+        "city": "Lake Aaron",
+        "state": "Mississippi",
+        "zip": "54445"
+    },
+    "contact": {
+        "phone": "835.899.8818x871",
+        "servicePhone": "800269175"
+    },
+    "birthday": "1994-03-05",
+    "ip": "176.65.97.103",
+    "foo": "bar",
+    "profile": {
+        "about": "Hotel when action offer. Door marriage smile and start each use. Various of central age like.\nEvery day we continue social. Religious pass control effect TV wall. Open where piece of stop.",
+        "bio": "Professor direction still interesting be middle. Few us game least his pick particular fact. Science memory successful event within Republican become friend."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
