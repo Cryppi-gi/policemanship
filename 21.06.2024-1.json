@@ -1,0 +1,25 @@
+{
+    "name": "Carl Flowers",
+    "age": 26,
+    "address": {
+        "street": "Lane Shoal",
+        "city": "Port Marcport",
+        "state": "Texas",
+        "zip": "15154"
+    },
+    "contact": {
+        "phone": "+1-630-853-7970",
+        "servicePhone": "800410566"
+    },
+    "birthday": "1999-03-05",
+    "ip": "4.198.101.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Catch hand goal impact decide relationship.\nCourse future very order live hotel scientist. Issue professional community condition stuff instead economy.",
+        "bio": "Computer quite option key relate never nor little. Weight born we floor. Election I bank research apply crime else like. Work care for down training meeting."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
