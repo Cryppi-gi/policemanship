@@ -1,0 +1,25 @@
+{
+    "name": "Erica Savage",
+    "age": 76,
+    "address": {
+        "street": "Carolyn Streets",
+        "city": "New Peggyside",
+        "state": "New Mexico",
+        "zip": "34592"
+    },
+    "contact": {
+        "phone": "+1-900-219-4863",
+        "servicePhone": "800273247"
+    },
+    "birthday": "1949-23-06",
+    "ip": "75.253.163.133",
+    "foo": "bar",
+    "profile": {
+        "about": "Soon special plan each ground choice. Morning return list.\nSkill wonder join and. They fight energy beyond. Brother or security me.",
+        "bio": "Mention house production hit kitchen alone city. Begin alone phone star owner. Note try really choice support none.\nEnvironment policy its force look summer."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
