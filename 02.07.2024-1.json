@@ -1,0 +1,25 @@
+{
+    "name": "Natalie Gutierrez",
+    "age": 98,
+    "address": {
+        "street": "Ariana Motorway",
+        "city": "Lake Jesusfort",
+        "state": "Massachusetts",
+        "zip": "54651"
+    },
+    "contact": {
+        "phone": "401-814-0592x300",
+        "servicePhone": "800306517"
+    },
+    "birthday": "1927-29-01",
+    "ip": "211.87.134.161",
+    "foo": "bar",
+    "profile": {
+        "about": "Race forward positive bring. Night day stay act support during safe.\nPopular nor economy social action leave.",
+        "bio": "Coach probably significant among bit research almost care. Degree they career need century save structure."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
