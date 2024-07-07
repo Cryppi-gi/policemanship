@@ -1,0 +1,25 @@
+{
+    "name": "David White",
+    "age": 1,
+    "address": {
+        "street": "Garcia Trail",
+        "city": "Currytown",
+        "state": "Kentucky",
+        "zip": "24898"
+    },
+    "contact": {
+        "phone": "001-530-964-2308x8225",
+        "servicePhone": "800368428"
+    },
+    "birthday": "2024-01-03",
+    "ip": "219.35.137.96",
+    "foo": "bar",
+    "profile": {
+        "about": "Continue name sort deep catch.\nDiscuss each down us.",
+        "bio": "World actually culture relationship. Know once remain moment act wife. Kitchen adult some perhaps true. Likely rich Congress player minute."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
