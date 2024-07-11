@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Hines",
+    "age": 16,
+    "address": {
+        "street": "Dana Oval",
+        "city": "South Carrie",
+        "state": "California",
+        "zip": "58420"
+    },
+    "contact": {
+        "phone": "662-409-7230",
+        "servicePhone": "800555917"
+    },
+    "birthday": "2009-27-02",
+    "ip": "120.138.72.251",
+    "foo": "bar",
+    "profile": {
+        "about": "In anyone create subject professor indicate. Travel question just yes police health. Million majority evening short.\nMan every at. Watch clear likely industry nice old.",
+        "bio": "Standard month other hot despite discuss successful store. Sure cost specific business all participant. Walk political will."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
