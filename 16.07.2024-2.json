@@ -1,0 +1,25 @@
+{
+    "name": "Erica Warren",
+    "age": 5,
+    "address": {
+        "street": "Thomas Bypass",
+        "city": "South Alyssa",
+        "state": "Louisiana",
+        "zip": "88441"
+    },
+    "contact": {
+        "phone": "(790)527-1464x20045",
+        "servicePhone": "800894831"
+    },
+    "birthday": "2020-30-06",
+    "ip": "185.187.111.20",
+    "foo": "bar",
+    "profile": {
+        "about": "Small care realize whatever new left go hard. Edge reason someone raise result. Tree economy high figure human collection while.",
+        "bio": "General person toward paper sometimes. Foot professor determine.\nReveal clear fast product remain Mr read. Share PM reason similar house. Side list us specific."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
