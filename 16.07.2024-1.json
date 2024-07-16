@@ -1,0 +1,25 @@
+{
+    "name": "Sean Cooper",
+    "age": 16,
+    "address": {
+        "street": "Richards Gardens",
+        "city": "Port Meganville",
+        "state": "Indiana",
+        "zip": "72041"
+    },
+    "contact": {
+        "phone": "614.809.7225",
+        "servicePhone": "800551188"
+    },
+    "birthday": "2009-05-06",
+    "ip": "208.46.249.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Production evening animal challenge alone might when. Level member other film quickly.\nConcern less focus as story her window. Size least appear. Choose behind into believe.",
+        "bio": "Effort simple of American. View those agree particular some college receive. Whole method address everything.\nContain year where political like indeed. Window here PM prepare."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
