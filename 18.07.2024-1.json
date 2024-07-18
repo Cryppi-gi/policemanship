@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Beltran",
+    "age": 36,
+    "address": {
+        "street": "James Manors",
+        "city": "South Amy",
+        "state": "Oregon",
+        "zip": "27407"
+    },
+    "contact": {
+        "phone": "711.988.0882x609",
+        "servicePhone": "800978042"
+    },
+    "birthday": "1989-07-04",
+    "ip": "112.159.246.250",
+    "foo": "bar",
+    "profile": {
+        "about": "Nearly between weight approach medical forget. Friend end low join best store.\nWe store phone message put common radio. Change although network vote guess parent. Maintain do show goal five consider.",
+        "bio": "Onto home energy start could Mrs study. Difficult specific thought southern tonight thought fall.\nBegin space worker now. On bad red your where situation anything."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
