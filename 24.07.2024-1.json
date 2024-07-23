@@ -1,0 +1,25 @@
+{
+    "name": "Kirk Spencer",
+    "age": 10,
+    "address": {
+        "street": "Megan Orchard",
+        "city": "West Christian",
+        "state": "South Dakota",
+        "zip": "95134"
+    },
+    "contact": {
+        "phone": "258-980-8690x467",
+        "servicePhone": "800142313"
+    },
+    "birthday": "2015-17-02",
+    "ip": "17.119.68.83",
+    "foo": "bar",
+    "profile": {
+        "about": "Operation reflect certain conference letter dark around. Floor finally bed.\nTogether spring cup police floor environmental. After center movement half evening learn.",
+        "bio": "Animal involve director song. Pick theory hear meeting lay bill.\nView my there foreign approach stay reality. Member in stuff general look style.\nAccept bill treatment expect very play."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
