@@ -1,0 +1,25 @@
+{
+    "name": "Francisco Hughes",
+    "age": 103,
+    "address": {
+        "street": "Leach Causeway",
+        "city": "South Stephenview",
+        "state": "Nevada",
+        "zip": "29570"
+    },
+    "contact": {
+        "phone": "971-940-0878",
+        "servicePhone": "800809924"
+    },
+    "birthday": "1922-10-02",
+    "ip": "22.29.36.247",
+    "foo": "bar",
+    "profile": {
+        "about": "Sort pull fact test describe behavior. Factor follow majority everything yourself ok well. Human physical carry international.",
+        "bio": "On space same likely the will.\nCost room than onto still. Individual next still wide cover."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
