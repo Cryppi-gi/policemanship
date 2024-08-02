@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Reyes",
+    "age": 114,
+    "address": {
+        "street": "Susan Shores",
+        "city": "Taramouth",
+        "state": "Mississippi",
+        "zip": "81254"
+    },
+    "contact": {
+        "phone": "001-206-560-1577x8630",
+        "servicePhone": "800631621"
+    },
+    "birthday": "1911-21-02",
+    "ip": "164.167.20.34",
+    "foo": "bar",
+    "profile": {
+        "about": "Case there factor such site understand room. Evidence including they eat. Staff boy serve rest world peace president.\nDirection throw generation. Threat chair water manager all.",
+        "bio": "Pass first well treatment small. Style soldier late east left pretty worker. Thus pattern order admit class activity moment."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
