@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Patterson",
+    "age": 86,
+    "address": {
+        "street": "Susan Grove",
+        "city": "Brownville",
+        "state": "Colorado",
+        "zip": "60389"
+    },
+    "contact": {
+        "phone": "001-307-744-8916x92829",
+        "servicePhone": "800214887"
+    },
+    "birthday": "1939-06-08",
+    "ip": "140.123.91.250",
+    "foo": "bar",
+    "profile": {
+        "about": "Word anyone level strategy money address hit. Rule matter type gas light hour.",
+        "bio": "Like protect attorney song successful trade ability. Professional all under seek imagine produce support."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
