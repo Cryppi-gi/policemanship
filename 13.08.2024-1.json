@@ -1,0 +1,25 @@
+{
+    "name": "Sue Cox",
+    "age": 83,
+    "address": {
+        "street": "Flores Harbors",
+        "city": "Perezberg",
+        "state": "Indiana",
+        "zip": "41041"
+    },
+    "contact": {
+        "phone": "4069415205",
+        "servicePhone": "800616991"
+    },
+    "birthday": "1942-06-11",
+    "ip": "77.214.128.77",
+    "foo": "bar",
+    "profile": {
+        "about": "Discuss agree attention television. Pass crime quality environmental environment case. Career wind lay hospital never. President carry forward week enjoy citizen customer win.",
+        "bio": "Us provide fine mother guy black. Future physical light technology service. Plan stage movie phone hot.\nHospital contain see. Him test hundred yes president nice spend.\nSet ask subject store."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
