@@ -1,0 +1,25 @@
+{
+    "name": "Erica Martinez",
+    "age": 68,
+    "address": {
+        "street": "Hannah Unions",
+        "city": "Port Rogerfort",
+        "state": "Washington",
+        "zip": "86691"
+    },
+    "contact": {
+        "phone": "(303)656-2577x46897",
+        "servicePhone": "800142112"
+    },
+    "birthday": "1957-26-05",
+    "ip": "130.213.11.39",
+    "foo": "bar",
+    "profile": {
+        "about": "Value staff program ready theory sometimes head. Top letter station sell under another talk. Professor probably approach.",
+        "bio": "Finally eat discover strong fly woman cut. Leader see research simply because yeah center carry. Real up service center bed operation."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
