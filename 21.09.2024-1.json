@@ -1,0 +1,25 @@
+{
+    "name": "Destiny Barnes",
+    "age": 105,
+    "address": {
+        "street": "Hart Cliffs",
+        "city": "Scottton",
+        "state": "Kansas",
+        "zip": "29537"
+    },
+    "contact": {
+        "phone": "001-386-971-3752",
+        "servicePhone": "800833811"
+    },
+    "birthday": "1920-09-08",
+    "ip": "171.185.94.107",
+    "foo": "bar",
+    "profile": {
+        "about": "Ever skill serious partner outside film boy. Left everything data sport discussion. By laugh its seek arrive can authority.\nTraining fact pretty. Difference character quickly.",
+        "bio": "Church easy different century. Medical oil picture chance three exist accept.\nFine amount sea pull lead within. Late very crime.\nForm west visit each real help leader. Develop without official happy."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
