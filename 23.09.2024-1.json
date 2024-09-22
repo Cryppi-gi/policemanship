@@ -1,0 +1,25 @@
+{
+    "name": "Janice Waters",
+    "age": 5,
+    "address": {
+        "street": "Foster Vista",
+        "city": "Kurtmouth",
+        "state": "West Virginia",
+        "zip": "06281"
+    },
+    "contact": {
+        "phone": "001-939-610-6143x95494",
+        "servicePhone": "800189611"
+    },
+    "birthday": "2020-13-12",
+    "ip": "60.254.169.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Serious it call sense gas ten employee. Dark agency game usually movement act. Professional federal left. Tend short artist food future whom around.",
+        "bio": "View may left blood. Pretty executive buy offer arrive education become.\nHuge try oil pass doctor. Range charge million clear ability even note. Ball visit read year group return score."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
