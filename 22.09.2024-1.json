@@ -1,0 +1,25 @@
+{
+    "name": "Steven Scott",
+    "age": 114,
+    "address": {
+        "street": "Katherine Springs",
+        "city": "Welchside",
+        "state": "Nebraska",
+        "zip": "99376"
+    },
+    "contact": {
+        "phone": "+1-470-874-9848",
+        "servicePhone": "800503722"
+    },
+    "birthday": "1911-09-03",
+    "ip": "107.169.63.191",
+    "foo": "bar",
+    "profile": {
+        "about": "Degree well rule anything break feel within. Green rock general serve hospital. Current successful of. Series tough fall whom civil.",
+        "bio": "Special what offer year join herself. See season plan head while guess."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
