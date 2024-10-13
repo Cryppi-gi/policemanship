@@ -1,0 +1,25 @@
+{
+    "name": "Samantha Murphy",
+    "age": 2,
+    "address": {
+        "street": "Samantha Road",
+        "city": "Orozcoburgh",
+        "state": "Oregon",
+        "zip": "30727"
+    },
+    "contact": {
+        "phone": "928.663.4684x6852",
+        "servicePhone": "800093319"
+    },
+    "birthday": "2023-28-03",
+    "ip": "61.138.63.140",
+    "foo": "bar",
+    "profile": {
+        "about": "Reflect happen mention speech. System month environmental to cell security. But let citizen above series that water.",
+        "bio": "Represent job agree. Whole major Mr home from easy. Heavy bag edge lead keep reach.\nExecutive player meet young it relationship. Deal could choice order why. Feeling quickly rock room water and."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}
