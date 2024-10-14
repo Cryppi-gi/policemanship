@@ -1,0 +1,25 @@
+{
+    "name": "Lori Porter",
+    "age": 55,
+    "address": {
+        "street": "Brooks Port",
+        "city": "Tammyside",
+        "state": "Texas",
+        "zip": "79481"
+    },
+    "contact": {
+        "phone": "001-695-865-6996x74620",
+        "servicePhone": "800701564"
+    },
+    "birthday": "1970-15-10",
+    "ip": "188.187.80.40",
+    "foo": "bar",
+    "profile": {
+        "about": "Thought relationship central high cause who artist. Maybe mention project democratic.\nYou hear today rate. Develop couple create detail buy future what sure.",
+        "bio": "Anything brother down industry. Election body law number from single him book. Much big article husband quality.\nEach run pull social every opportunity."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}
