@@ -1,0 +1,25 @@
+{
+    "name": "Todd Mills",
+    "age": 66,
+    "address": {
+        "street": "Schultz Place",
+        "city": "Garciashire",
+        "state": "Oregon",
+        "zip": "57450"
+    },
+    "contact": {
+        "phone": "551.865.9763x9844",
+        "servicePhone": "800419456"
+    },
+    "birthday": "1959-07-04",
+    "ip": "219.48.118.208",
+    "foo": "bar",
+    "profile": {
+        "about": "Win strong concern guess where fine significant. Future perform show.",
+        "bio": "Administration statement blood account. Point cover establish important indicate. Discover and education agreement but."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
