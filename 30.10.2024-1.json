@@ -1,0 +1,25 @@
+{
+    "name": "Mrs. Ashley Luna",
+    "age": 91,
+    "address": {
+        "street": "Gross Ford",
+        "city": "North Cynthia",
+        "state": "Maryland",
+        "zip": "44157"
+    },
+    "contact": {
+        "phone": "509-535-0412x17150",
+        "servicePhone": "800968859"
+    },
+    "birthday": "1934-06-02",
+    "ip": "130.128.143.8",
+    "foo": "bar",
+    "profile": {
+        "about": "Natural experience him ten board century her raise. Personal picture season across.\nStart personal check season pretty member little. Key name several human new why. Hour month attention plant.",
+        "bio": "Professor enter safe at prepare chance.\nBig fund learn west research pick. Appear face board.\nPurpose quickly trial nice less. From final financial nice."
+    },
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}
