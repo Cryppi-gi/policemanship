@@ -1,0 +1,25 @@
+{
+    "name": "Rachel Kane",
+    "age": 104,
+    "address": {
+        "street": "Reyes Throughway",
+        "city": "Mollyburgh",
+        "state": "Massachusetts",
+        "zip": "35235"
+    },
+    "contact": {
+        "phone": "603.354.3308",
+        "servicePhone": "800698830"
+    },
+    "birthday": "1921-30-06",
+    "ip": "63.57.162.158",
+    "foo": "bar",
+    "profile": {
+        "about": "Ok very challenge. Sound pressure budget nothing.\nSea according point reality. Public education force Congress air. Face stand project positive happen rather little.",
+        "bio": "Continue finish method entire figure garden. American account which maintain owner another.\nCold instead long listen none. Action traditional argue.\nDream sport at stop. Son she process force office."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}
