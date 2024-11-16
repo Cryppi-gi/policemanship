@@ -1,0 +1,25 @@
+{
+    "name": "Alexandra Cooper",
+    "age": 96,
+    "address": {
+        "street": "Baker Roads",
+        "city": "Bryanthaven",
+        "state": "Utah",
+        "zip": "32525"
+    },
+    "contact": {
+        "phone": "951-978-9200",
+        "servicePhone": "800520417"
+    },
+    "birthday": "1929-22-10",
+    "ip": "89.202.95.230",
+    "foo": "bar",
+    "profile": {
+        "about": "Opportunity now could alone whole foot. Teach operation house food citizen yourself miss score.",
+        "bio": "Never remain later see hot. Child word than actually century. Specific evening property detail decade raise study.\nAnyone realize tonight really."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
