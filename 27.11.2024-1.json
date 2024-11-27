@@ -1,0 +1,25 @@
+{
+    "name": "Wendy Moore",
+    "age": 63,
+    "address": {
+        "street": "Perkins Viaduct",
+        "city": "Erinfort",
+        "state": "Texas",
+        "zip": "92223"
+    },
+    "contact": {
+        "phone": "616.239.4643",
+        "servicePhone": "800189560"
+    },
+    "birthday": "1962-24-12",
+    "ip": "210.128.118.212",
+    "foo": "bar",
+    "profile": {
+        "about": "Task early standard court will continue. Character identify management third dream. Ever husband very enjoy.\nRun head right option everyone kitchen. Film believe hair around.",
+        "bio": "Write also fish foreign must yourself star. Approach she however summer president your physical.\nConference may rich for."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
