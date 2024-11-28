@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Sanchez",
+    "age": 63,
+    "address": {
+        "street": "Robert Island",
+        "city": "Martinezstad",
+        "state": "New York",
+        "zip": "26348"
+    },
+    "contact": {
+        "phone": "9216106806",
+        "servicePhone": "800877180"
+    },
+    "birthday": "1962-08-01",
+    "ip": "95.246.219.151",
+    "foo": "bar",
+    "profile": {
+        "about": "Certain black financial meet. Policy fund future book music visit fill draw. Guy four number artist.\nSoon several space nothing. Without finally least daughter continue.",
+        "bio": "Company laugh minute change.\nProfessional tell pass right behavior right. Exactly war generation PM. Rock bring energy series later dog vote color."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
