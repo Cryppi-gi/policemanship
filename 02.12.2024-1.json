@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Nguyen",
+    "age": 91,
+    "address": {
+        "street": "Matthew Locks",
+        "city": "Hawkinsmouth",
+        "state": "Minnesota",
+        "zip": "73332"
+    },
+    "contact": {
+        "phone": "215-313-8087x5736",
+        "servicePhone": "800890811"
+    },
+    "birthday": "1934-07-07",
+    "ip": "38.217.181.238",
+    "foo": "bar",
+    "profile": {
+        "about": "Single administration interview perform. Seat where something thought his.\nBase own hope offer college. Identify measure after similar including contain.",
+        "bio": "Method discussion various election. Two us for side win many. Ground current list reason.\nMaintain officer democratic wide. Reach certainly party story."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
