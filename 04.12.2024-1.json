@@ -1,0 +1,25 @@
+{
+    "name": "Vanessa Oconnell",
+    "age": 90,
+    "address": {
+        "street": "Jason Loop",
+        "city": "West Michael",
+        "state": "North Dakota",
+        "zip": "79037"
+    },
+    "contact": {
+        "phone": "(880)444-2473",
+        "servicePhone": "800389882"
+    },
+    "birthday": "1935-14-06",
+    "ip": "23.226.224.68",
+    "foo": "bar",
+    "profile": {
+        "about": "Defense success hair fine bill seek mother child.\nNear push perhaps old issue prepare operation rise. Raise Democrat begin ever north. Cell use test trade character prove can.",
+        "bio": "Boy wife question support detail policy. Tv left few good. Little though future you authority drive participant.\nWatch now it figure gas. Safe again though throw produce magazine."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}
