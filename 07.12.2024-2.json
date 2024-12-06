@@ -1,0 +1,25 @@
+{
+    "name": "Robin Green",
+    "age": 13,
+    "address": {
+        "street": "Anderson Plain",
+        "city": "Phamstad",
+        "state": "Maine",
+        "zip": "43800"
+    },
+    "contact": {
+        "phone": "821-663-3645x692",
+        "servicePhone": "800287454"
+    },
+    "birthday": "2012-14-03",
+    "ip": "151.4.71.21",
+    "foo": "bar",
+    "profile": {
+        "about": "About evening how some let sport right computer. Some with apply forward near trouble successful.\nNext against among side fact here speak. Middle which region others.",
+        "bio": "Process second sign letter language who fast. Reflect probably same relationship institution land tree six. Not information husband smile."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}
