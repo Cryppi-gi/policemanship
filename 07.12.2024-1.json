@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Morales",
+    "age": 29,
+    "address": {
+        "street": "Vicki Lake",
+        "city": "Christopherfurt",
+        "state": "Connecticut",
+        "zip": "33288"
+    },
+    "contact": {
+        "phone": "(524)886-5917x60800",
+        "servicePhone": "800968622"
+    },
+    "birthday": "1996-08-04",
+    "ip": "15.14.115.74",
+    "foo": "bar",
+    "profile": {
+        "about": "Change year very mean television system. Candidate kid other smile each. Wrong inside claim left. Work behind idea music American.",
+        "bio": "We job child city turn happen property it. In cost left smile chair of. Financial high late tend sister.\nPerson environmental use much threat. Save business end she."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
