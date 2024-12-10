@@ -1,0 +1,25 @@
+{
+    "name": "Kyle Lawson",
+    "age": 38,
+    "address": {
+        "street": "Timothy Shores",
+        "city": "Oneillberg",
+        "state": "Arizona",
+        "zip": "56713"
+    },
+    "contact": {
+        "phone": "345.436.9062",
+        "servicePhone": "800556520"
+    },
+    "birthday": "1987-01-07",
+    "ip": "141.67.8.139",
+    "foo": "bar",
+    "profile": {
+        "about": "Beyond perform front indicate against these purpose. Unit assume thousand. Rise energy seat make visit.",
+        "bio": "Attack then wonder conference raise itself but story. Sit enter benefit down of city."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
