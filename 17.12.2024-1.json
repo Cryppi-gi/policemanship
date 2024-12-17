@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Corey Hicks",
+    "age": 38,
+    "address": {
+        "street": "Johnson Plaza",
+        "city": "Melanieside",
+        "state": "Utah",
+        "zip": "00608"
+    },
+    "contact": {
+        "phone": "+1-542-818-3122x1183",
+        "servicePhone": "800925027"
+    },
+    "birthday": "1987-24-05",
+    "ip": "57.79.66.93",
+    "foo": "bar",
+    "profile": {
+        "about": "Us resource allow. Age leg night trouble. Understand sort money their evening. And mother charge book today church word.",
+        "bio": "Certain enter senior short. Attack news stuff hospital manager north. Firm central can material picture spend food hospital."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
