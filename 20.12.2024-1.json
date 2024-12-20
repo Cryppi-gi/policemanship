@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Allen",
+    "age": 35,
+    "address": {
+        "street": "James Turnpike",
+        "city": "East Latoyamouth",
+        "state": "Nebraska",
+        "zip": "94307"
+    },
+    "contact": {
+        "phone": "+1-552-962-8007x72099",
+        "servicePhone": "800445832"
+    },
+    "birthday": "1990-15-02",
+    "ip": "139.168.57.125",
+    "foo": "bar",
+    "profile": {
+        "about": "Ask but thank share. Piece trip interesting bring.\nRecord allow choose where speech. Blood everything reach above.\nFrom order Congress. Every site pressure space.\nElse get difficult suddenly however.",
+        "bio": "South hour hope night mind behavior.\nJoin reflect color sometimes. Feel happen white court learn. Agreement throughout test attention health choose unit."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}
