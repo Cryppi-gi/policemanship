@@ -1,0 +1,25 @@
+{
+    "name": "Shelley Smith",
+    "age": 72,
+    "address": {
+        "street": "Dawn Trace",
+        "city": "Galvanfurt",
+        "state": "Kentucky",
+        "zip": "43953"
+    },
+    "contact": {
+        "phone": "392-739-2364",
+        "servicePhone": "800876896"
+    },
+    "birthday": "1953-29-07",
+    "ip": "189.238.52.225",
+    "foo": "bar",
+    "profile": {
+        "about": "Arm identify produce suffer ahead everybody where admit. Very on character action. Yes hair benefit suffer perform. Direction learn law firm protect.\nSubject manage believe program maybe first good.",
+        "bio": "General run shake skill issue. Fight attack important town.\nPolicy another bad four. Population improve century price. Pick ahead drive name special sort whether."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
