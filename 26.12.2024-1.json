@@ -1,0 +1,25 @@
+{
+    "name": "Juan Peterson",
+    "age": 8,
+    "address": {
+        "street": "Brian Rapid",
+        "city": "Mistyberg",
+        "state": "Maine",
+        "zip": "65133"
+    },
+    "contact": {
+        "phone": "2665561752",
+        "servicePhone": "800389007"
+    },
+    "birthday": "2017-19-10",
+    "ip": "188.208.30.251",
+    "foo": "bar",
+    "profile": {
+        "about": "Imagine property source head bring whose music.\nAsk may machine letter sure thank seat. Color herself my voice market later behavior. Air left election think.",
+        "bio": "Receive page political night top which. Behind add go century know town eight.\nAgain miss allow box. Some their open teach either process reality cultural. Sport with partner we."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}
