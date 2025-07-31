@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Leonard",
+    "age": 89,
+    "address": {
+        "street": "Richmond Points",
+        "city": "Lake Mark",
+        "state": "Alabama",
+        "zip": "44129"
+    },
+    "contact": {
+        "phone": "6412137331",
+        "servicePhone": "800996861"
+    },
+    "birthday": "1936-17-07",
+    "ip": "139.232.4.90",
+    "foo": "bar",
+    "profile": {
+        "about": "Today my science name. Range ten ahead see. Involve general month contain in happy father.",
+        "bio": "Marriage friend wonder with account. Whole yourself through alone price police process. On successful laugh."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
