@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Galvan",
+    "age": 81,
+    "address": {
+        "street": "Trevor Alley",
+        "city": "West Jennifer",
+        "state": "Alabama",
+        "zip": "52492"
+    },
+    "contact": {
+        "phone": "+1-616-225-0515x212",
+        "servicePhone": "800077544"
+    },
+    "birthday": "1944-02-07",
+    "ip": "39.209.120.66",
+    "foo": "bar",
+    "profile": {
+        "about": "Record surface day board stage theory election. Really week take street live customer. Action someone visit third mouth yard both.",
+        "bio": "Woman opportunity research end than. Main new focus social together consumer pretty.\nEnvironmental identify fine. Stop finish approach. Story cold and myself eight stay."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
