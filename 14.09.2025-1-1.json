@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Trujillo",
+    "age": 87,
+    "address": {
+        "street": "Alan Cape",
+        "city": "East Stephanie",
+        "state": "Washington",
+        "zip": "94911"
+    },
+    "contact": {
+        "phone": "3307070382",
+        "servicePhone": "800094250"
+    },
+    "birthday": "1938-22-04",
+    "ip": "31.247.90.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Newspaper fall perhaps degree. Share participant year.",
+        "bio": "Know can option one. Simple last evening shake dinner southern certain.\nAssume his prepare difference century record. Wife point employee field. Choose imagine him factor believe technology win."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
