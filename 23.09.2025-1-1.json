@@ -1,0 +1,25 @@
+{
+    "name": "Devin Ramsey",
+    "age": 61,
+    "address": {
+        "street": "Pamela Falls",
+        "city": "Jacquelinehaven",
+        "state": "Pennsylvania",
+        "zip": "30642"
+    },
+    "contact": {
+        "phone": "+1-397-318-2952x6589",
+        "servicePhone": "800079579"
+    },
+    "birthday": "1964-18-06",
+    "ip": "126.171.192.23",
+    "foo": "bar",
+    "profile": {
+        "about": "Step baby effort. Tree step car charge range feel coach trial.\nWe national section. Edge police gas say. Example remember ability home.",
+        "bio": "Employee over design soldier contain after. Pay bag few box nature. Main lead also way eye someone approach. Less leg grow."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
