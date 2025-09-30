@@ -1,0 +1,25 @@
+{
+    "name": "James Reynolds",
+    "age": 41,
+    "address": {
+        "street": "Chad Branch",
+        "city": "Cliffordton",
+        "state": "Indiana",
+        "zip": "03784"
+    },
+    "contact": {
+        "phone": "+1-675-481-8994x196",
+        "servicePhone": "800474598"
+    },
+    "birthday": "1984-13-12",
+    "ip": "221.222.106.176",
+    "foo": "bar",
+    "profile": {
+        "about": "Month explain rich certainly itself blood. In professional beautiful data west new glass.\nWrite first structure tough everyone.",
+        "bio": "Yet page few pass yes yes. Capital thank process.\nSave them go. Mother then table reduce week need. Democrat have so attack peace.\nEach lead ago. Likely everybody deal should."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}

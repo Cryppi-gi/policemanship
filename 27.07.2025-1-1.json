@@ -1,0 +1,25 @@
+{
+    "name": "Edward Garcia",
+    "age": 96,
+    "address": {
+        "street": "Wallace Glens",
+        "city": "Langton",
+        "state": "Ohio",
+        "zip": "83459"
+    },
+    "contact": {
+        "phone": "6848721843",
+        "servicePhone": "800272903"
+    },
+    "birthday": "1929-03-10",
+    "ip": "118.35.203.26",
+    "foo": "bar",
+    "profile": {
+        "about": "Early cut let. Most life free talk fire third.\nCheck push whatever billion blue create. Answer leave significant responsibility series few. Worry defense us across.",
+        "bio": "Reveal lay song business partner improve. Black show different wish floor customer relationship."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
