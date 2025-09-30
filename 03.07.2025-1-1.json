@@ -1,0 +1,25 @@
+{
+    "name": "Donna Jones",
+    "age": 35,
+    "address": {
+        "street": "Williams Cliffs",
+        "city": "Lake Amandamouth",
+        "state": "West Virginia",
+        "zip": "71077"
+    },
+    "contact": {
+        "phone": "(733)951-7885",
+        "servicePhone": "800064705"
+    },
+    "birthday": "1990-17-05",
+    "ip": "128.29.134.129",
+    "foo": "bar",
+    "profile": {
+        "about": "Start provide want control soon able none. From tree team imagine pay four when. Ability tough suffer marriage key change. Before above drug dinner now baby.",
+        "bio": "Bit live plant little my worker actually plan. Near stop choice hour. Either specific reach spend city.\nTonight wife top yet. Year fear style act down seem."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}

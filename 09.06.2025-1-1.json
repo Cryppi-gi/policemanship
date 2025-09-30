@@ -1,0 +1,25 @@
+{
+    "name": "Katherine Miller",
+    "age": 115,
+    "address": {
+        "street": "Cheryl Lake",
+        "city": "Walshberg",
+        "state": "Louisiana",
+        "zip": "01658"
+    },
+    "contact": {
+        "phone": "001-551-323-9832x91086",
+        "servicePhone": "800102172"
+    },
+    "birthday": "1910-14-06",
+    "ip": "128.170.230.236",
+    "foo": "bar",
+    "profile": {
+        "about": "Chair growth simple manage interview respond wonder. Must game home rich be nation. Head take something interest day.\nCarry certainly audience movement. Maintain maintain city apply begin education.",
+        "bio": "Bed term peace talk glass manage. Who participant future friend realize why senior. For become drop level again rich. Knowledge could onto."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}
