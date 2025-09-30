@@ -1,0 +1,25 @@
+{
+    "name": "Tammy Zimmerman",
+    "age": 61,
+    "address": {
+        "street": "Grant Landing",
+        "city": "New Allen",
+        "state": "Virginia",
+        "zip": "82233"
+    },
+    "contact": {
+        "phone": "538-497-2633x18084",
+        "servicePhone": "800505203"
+    },
+    "birthday": "1964-25-04",
+    "ip": "82.35.75.163",
+    "foo": "bar",
+    "profile": {
+        "about": "Many food human plant brother. Ok card reason way start PM.\nAlso politics leg hand professional some. Executive main guy energy.",
+        "bio": "Rate better small improve. Number simply authority education science arrive science. Just main fact sense debate notice civil buy. Set Democrat laugh bed back lay."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
