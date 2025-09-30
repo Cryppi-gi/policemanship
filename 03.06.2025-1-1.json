@@ -1,0 +1,25 @@
+{
+    "name": "Katherine Collins",
+    "age": 1,
+    "address": {
+        "street": "James Motorway",
+        "city": "Lake Shannon",
+        "state": "Vermont",
+        "zip": "10949"
+    },
+    "contact": {
+        "phone": "001-756-559-0612x5546",
+        "servicePhone": "800139410"
+    },
+    "birthday": "2024-27-08",
+    "ip": "61.54.241.36",
+    "foo": "bar",
+    "profile": {
+        "about": "Recent will have your. Miss finally material center laugh politics. Probably himself scene stock.",
+        "bio": "Order his itself report skin. No list everything consumer mention around watch.\nMind maintain dog get trial buy miss. Evening expert wrong. End shake glass term."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}

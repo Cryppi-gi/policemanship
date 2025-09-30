@@ -1,0 +1,25 @@
+{
+    "name": "Adam Smith",
+    "age": 55,
+    "address": {
+        "street": "Ochoa Roads",
+        "city": "Port Scottmouth",
+        "state": "Montana",
+        "zip": "97298"
+    },
+    "contact": {
+        "phone": "+1-308-208-7724x112",
+        "servicePhone": "800439377"
+    },
+    "birthday": "1970-24-08",
+    "ip": "203.83.223.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Choice then stay take rather fact grow. Other grow increase. Relationship soon book focus reason picture family.",
+        "bio": "Apply available mouth leave sell well sport. Keep opportunity carry. System process affect grow. None might though usually."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
