@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Lewis",
+    "age": 86,
+    "address": {
+        "street": "Davis Island",
+        "city": "West April",
+        "state": "Maine",
+        "zip": "04367"
+    },
+    "contact": {
+        "phone": "303.981.6723x725",
+        "servicePhone": "800342149"
+    },
+    "birthday": "1939-17-04",
+    "ip": "104.226.195.171",
+    "foo": "bar",
+    "profile": {
+        "about": "Sit ground upon throughout experience beyond senior. In attention yet able his. Stand keep particularly let management right spring.",
+        "bio": "Source garden purpose huge door loss general. Radio college your nearly without cover price purpose. Measure next believe. Owner town fall job rest quite."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "William Davis",
+    "age": 86,
+    "address": {
+        "street": "Williams Trace",
+        "city": "Natalieberg",
+        "state": "New Mexico",
+        "zip": "48433"
+    },
+    "contact": {
+        "phone": "739-849-5908",
+        "servicePhone": "800520644"
+    },
+    "birthday": "1939-31-12",
+    "ip": "150.168.66.200",
+    "foo": "bar",
+    "profile": {
+        "about": "Write call region everyone make college. Lose level where toward.\nPresent off garden maybe cut month. Street several skill avoid almost blue.",
+        "bio": "Reality participant artist generation four around walk. Eye challenge enough painting theory they think."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
