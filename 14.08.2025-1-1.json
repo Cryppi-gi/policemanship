@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Wilcox",
+    "age": 68,
+    "address": {
+        "street": "Valentine Oval",
+        "city": "Barrybury",
+        "state": "Utah",
+        "zip": "01100"
+    },
+    "contact": {
+        "phone": "(426)217-0912",
+        "servicePhone": "800469450"
+    },
+    "birthday": "1957-15-11",
+    "ip": "10.17.142.65",
+    "foo": "bar",
+    "profile": {
+        "about": "Interview effect yet will must star rich view. Easy factor child though. Tonight reveal fine Democrat stop lose write consider.\nWife us truth side yard contain. Picture get support no.",
+        "bio": "Line ability different tend standard. Soldier morning day raise stuff continue general. Tv professional someone natural wrong million.\nRepresent coach son any value draw. Four teacher old per."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
