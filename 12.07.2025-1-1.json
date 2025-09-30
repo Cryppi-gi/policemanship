@@ -1,0 +1,25 @@
+{
+    "name": "Noah Thomas",
+    "age": 8,
+    "address": {
+        "street": "Silva Fall",
+        "city": "Jameschester",
+        "state": "Pennsylvania",
+        "zip": "14368"
+    },
+    "contact": {
+        "phone": "412.459.3771",
+        "servicePhone": "800227193"
+    },
+    "birthday": "2017-16-02",
+    "ip": "102.128.222.16",
+    "foo": "bar",
+    "profile": {
+        "about": "Able surface might skin. School meet fact add.\nProvide opportunity take off manage service. Southern its nor produce service trip win. Employee message notice leg. Century imagine factor.",
+        "bio": "Right world store building idea. Security cultural tree which with. Cultural run control sister energy rise. Certainly paper work notice half blood game."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
