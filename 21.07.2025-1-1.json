@@ -1,0 +1,25 @@
+{
+    "name": "Mrs. Haley Peterson MD",
+    "age": 51,
+    "address": {
+        "street": "Vargas Court",
+        "city": "Port Taylorhaven",
+        "state": "New Jersey",
+        "zip": "35868"
+    },
+    "contact": {
+        "phone": "977.756.9843x9443",
+        "servicePhone": "800459217"
+    },
+    "birthday": "1974-16-03",
+    "ip": "52.102.120.224",
+    "foo": "bar",
+    "profile": {
+        "about": "Although believe police require anything. Approach interest much machine billion themselves. Account can phone decade. Why the me environment street natural.",
+        "bio": "Make wait through collection quickly the manage. Sign visit campaign add. Fly less north although yard would."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}

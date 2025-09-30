@@ -1,0 +1,25 @@
+{
+    "name": "Andrea Trujillo",
+    "age": 71,
+    "address": {
+        "street": "Jessica Common",
+        "city": "Mcculloughburgh",
+        "state": "Texas",
+        "zip": "07135"
+    },
+    "contact": {
+        "phone": "(791)536-3949",
+        "servicePhone": "800432388"
+    },
+    "birthday": "1954-02-03",
+    "ip": "103.165.173.244",
+    "foo": "bar",
+    "profile": {
+        "about": "Security significant my stand into college indicate. Identify TV only assume truth ago rate. Firm probably five off others look.",
+        "bio": "Can night seek call whether. Become land hit every information. Join on shake personal.\nWatch capital general pattern wife television strong. Child same agency."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
